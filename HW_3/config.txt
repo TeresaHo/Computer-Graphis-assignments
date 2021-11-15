@@ -1,0 +1,16 @@
+../../../NormalModels/al7KN.obj
+../../../NormalModels/armadillo12KN.obj
+../../../NormalModels/boxN.obj
+../../../NormalModels/bunny5KN.obj
+../../../NormalModels/cessna7KN.obj
+../../../NormalModels/cow3KN.obj
+../../../NormalModels/Dino20KN.obj
+../../../NormalModels/dodecahedronN.obj
+../../../NormalModels/dolphinN.obj
+../../../NormalModels/dragon10KN.obj
+../../../NormalModels/duck4KN.obj
+../../../NormalModels/happy10KN.obj
+../../../NormalModels/horse5KN.obj
+../../../NormalModels/lucy25KN.obj
+../../../NormalModels/sphereN.obj
+../../../NormalModels/teapot4KN.obj

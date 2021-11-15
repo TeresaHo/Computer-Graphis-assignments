@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assigment3", "Assigment3\Assigment3.vcxproj", "{F4380C4A-3943-4911-911C-E1BA5F8369CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4380C4A-3943-4911-911C-E1BA5F8369CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4380C4A-3943-4911-911C-E1BA5F8369CF}.Debug|x86.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF55A7B4-3BAB-4570-AE19-B8EAB1A061BE}
+	EndGlobalSection
+EndGlobal
