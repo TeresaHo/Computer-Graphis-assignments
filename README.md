@@ -1,2 +1,7 @@
 # Course: Computer-Graphis (10720CS550000)
-Assignemtns for Computer Graphis (10720CS550000) @ NTHU (2019)
+OpenGL programming assignemtns for Computer Graphis (10720CS550000) @ NTHU (2019)
+
+ 
+
+
+
